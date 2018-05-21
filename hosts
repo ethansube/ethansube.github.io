@@ -67,7 +67,7 @@
 127.0.0.1 p.ssl.qhmsg.com
 127.0.0.1 s.ssl.qhmsg.com
 127.0.0.1 s.ssl.qhimg.com
-127.0.0.1 login.360.cn
+#127.0.0.1 login.360.cn
 127.0.0.1 bbs.360.cn
 127.0.0.1 mse.360.cn
 127.0.0.1 110.360.cn
